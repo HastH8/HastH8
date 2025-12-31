@@ -1,5 +1,3 @@
-<!-- Coding-first GitHub Profile README -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,100:0ea5e9&amp;height=140&amp;section=header&amp;text=HastH8&amp;fontColor=ffffff&amp;fontSize=38&amp;desc=%20Software%20Engineer%20%7C%20TypeScript%20%7C%20Cloud&amp;descAlignY=75" alt="UiForge - Ked.ss" />
 </p>
@@ -45,15 +43,10 @@
 
 <h3>GitHub Stats</h3>
 <p>
-  <img src="https://git-hubreadme-git-main-hasts-projects.vercel.app/api?username=HastH8&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0ea5e9&amp;text_color=94a3b8&amp;icon_color=38bdf8" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HastH8&amp;hide_border=true&amp;background=0D1117&amp;ring=0EA5E9&amp;fire=38BDF8&amp;currStreakLabel=94A3B8&amp;currStreakNum=FFFFFF&amp;sideLabels=94A3B8&amp;sideNums=FFFFFF" alt="GitHub streak" />
-</p>
-<p>
-  <img src="https://git-hubreadme-git-main-hasts-projects.vercel.app/api/top-langs?username=HastH8&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0ea5e9&amp;text_color=94a3b8" alt="Top languages" />
 </p>
 
 <h3>Featured Repos</h3>
 <p>
-  <img src="https://git-hubreadme-git-main-hasts-projects.vercel.app/api/pin?username=HastH8&amp;repo=UiForge_CarFax&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0ea5e9&amp;text_color=94a3b8&amp;icon_color=38bdf8" alt="UiForge CarFax" />
-  <img src="https://git-hubreadme-git-main-hasts-projects.vercel.app/api/pin?username=HastH8&amp;repo=UiForge_Verison&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0ea5e9&amp;text_color=94a3b8&amp;icon_color=38bdf8" alt="UiForge Verison" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=HastH8&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" alt="UiForge " />
 </p>
