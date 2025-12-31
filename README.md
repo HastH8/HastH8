@@ -43,7 +43,7 @@
 
 <h3>GitHub Stats</h3>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HastH8&amp;hide_border=true&amp;background=0D1117&amp;ring=0EA5E9&amp;fire=38BDF8&amp;currStreakLabel=94A3B8&amp;currStreakNum=FFFFFF&amp;sideLabels=94A3B8&amp;sideNums=FFFFFF" alt="GitHub streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HastH8&theme=one_dark_pro&hide_border=false" />
 </p>
 
 <h3>Github Contributions</h3>
