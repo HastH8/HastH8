@@ -1,7 +1,7 @@
 <!-- Coding-first GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,100:0ea5e9&amp;height=140&amp;section=header&amp;text=HastH8&amp;fontColor=ffffff&amp;fontSize=38&amp;desc=Full%20Stack%20Engineer%20%7C%20TypeScript%20%7C%20Cloud&amp;descAlignY=75" alt="UiForge - Ked.ss" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,100:0ea5e9&amp;height=140&amp;section=header&amp;text=HastH8&amp;fontColor=ffffff&amp;fontSize=38&amp;desc=%20Software%20Engineer%20%7C%20TypeScript%20%7C%20Cloud&amp;descAlignY=75" alt="UiForge - Ked.ss" />
 </p>
 
 <p align="center">
@@ -23,12 +23,12 @@
         <li>API design, reliability, and performance at scale</li>
         <li>Cloud-native deploys, CI/CD, and developer experience</li>
       </ul>
-
+```
       <h3>Toolbox</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=lua,js,html,css,react,vite,ts,nodejs,mysql,sqlite,python,tailwind,git,githubactions,docker&amp;theme=dark" alt="Toolbox" />
       </p>
-
+```
       <h3>Currently Building</h3>
       <ul>
         <li>Modern React UI systems with reusable, typed components</li>
@@ -41,7 +41,7 @@
       <a href="https://github.com/rayriffy/apple-music-github-profile">
         <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001329.a67f69de607a4962a17f2b1441997061.0346" alt="Apple Music Now Playing" width="345" />
       </a>
-
+```
       <h3>VS Code Activity</h3>
       <a href="https://wakatime.com/@05a4a183-0848-4a36-b15a-09438bf1ac9a">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=05a4a183-0848-4a36-b15a-09438bf1ac9a&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=0ea5e9&amp;text_color=94a3b8&amp;icon_color=38bdf8" alt="WakaTime stats" />
