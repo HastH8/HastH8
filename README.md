@@ -46,7 +46,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HastH8&amp;hide_border=true&amp;background=0D1117&amp;ring=0EA5E9&amp;fire=38BDF8&amp;currStreakLabel=94A3B8&amp;currStreakNum=FFFFFF&amp;sideLabels=94A3B8&amp;sideNums=FFFFFF" alt="GitHub streak" />
 </p>
 
-<h3>Featured Repos</h3>
+<h3>Github Contributions</h3>
 <p>
   <img src="https://github-contributor-stats.vercel.app/api?username=HastH8&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" alt="UiForge " />
 </p>
