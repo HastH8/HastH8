@@ -32,12 +32,12 @@
         <li>Release automation, QA, and deployment pipelines across both stores</li>
       </ul>
     </td>
-    <td width="40%" valign="top">
+    <!-- <td width="40%" valign="top">
       <h3>Now Playing (Apple Music)</h3>
       <a href="https://github.com/rayriffy/apple-music-github-profile">
         <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001329.a67f69de607a4962a17f2b1441997061.0346" alt="Apple Music Now Playing" width="345" />
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
