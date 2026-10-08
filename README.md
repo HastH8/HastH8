@@ -40,13 +40,8 @@
     </td> -->
   </tr>
 </table>
-
-<h3>GitHub Stats</h3>
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HastH8&theme=one_dark_pro&hide_border=false" />
-</p>
-
-<h3>Github Contributions</h3>
-<p>
-  <img src="https://github-contributor-stats.vercel.app/api?username=HastH8&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" alt="UiForge " />
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=HastH8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>" />
+<img src="https://streak-stats.demolab.com/?user=HastH8&theme=dark&hide_border=false" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HastH8&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
